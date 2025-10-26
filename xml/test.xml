@@ -4,12 +4,20 @@
 
     <Skatepark>
         <Name>PJ</Name>
-        <location>Park Jordana</location>
-        <ledges>6</ledges>
-        <rails>2</rails>
-        <quarters>6<quarters>
-        <banksandhips>10</banksandhips>
+        <Location>ParkJordana</Location>
+        <Obstacles>
+            <Rails>2</Rails>
+            <ledges>5</ledges>
+        </Obstacles>
     </Skatepark>
     
+    <Skatepark>
+        <Name>PL</Name>
+        <Location>Park Lotników Polskich</Location>
+        <Obstacles>
+            <Rails>2</Rails>
+            <ledges>5</ledges>
+        </Obstacles>
+    </Skatepark>
 
 </Skateparks>
