@@ -2,34 +2,14 @@
 
 <Skateparks>
 
-    <PJ>
-        <Location>Park Jordana</Location>
-        <Obstacles>
-            <Ledges>6</Ledges>
-            <Rails>2</Rails>
-            <Quarters>6<Quarters>
-            <BanksAndHips>10</BanksAndHips>
-        </Obstacles>
-    </PJ>
-
-    <PL>
-        <Location>Park Lotników Polskich</Location>
-        <Obstacles>
-            <Ledges>5</Ledges>
-            <Rails>4</Rails>
-            <Quarters>6<Quarters>
-            <BanksAndHips>7</BanksAndHips>
-        </Obstacles>
-    </PL>
-
-    <Wiślicka>
-        <Location>Park tysiąclecia</Location>
-        <Obstacles>
-            <Ledges>4</Ledges>
-            <Rails>2</Rails>
-            <Quarters>0<Quarters>
-            <BanksAndHips>2</BanksAndHips>
-        </Obstacles>
-    </Wiślicka>
+    <Skatepark>
+        <Name>PJ</Name>
+        <location>Park Jordana</location>
+        <ledges>6</ledges>
+        <rails>2</rails>
+        <quarters>6<quarters>
+        <banksandhips>10</banksandhips>
+    </Skatepark>
+    
 
 </Skateparks>
