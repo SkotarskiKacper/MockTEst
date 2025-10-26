@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Skateparks>
+
+    <PJ>
+        <Location>Park Jordana</Location>
+        <Obstacles>
+            <Ledges>6</Ledges>
+            <Rails>2</Rails>
+            <Quarters>6<Quarters>
+            <BanksAndHips>10</BanksAndHips>
+        </Obstacles>
+    </PJ>
+
+    <PL>
+        <Location>Park Lotników Polskich</Location>
+        <Obstacles>
+            <Ledges>5</Ledges>
+            <Rails>4</Rails>
+            <Quarters>6<Quarters>
+            <BanksAndHips>7</BanksAndHips>
+        </Obstacles>
+    </PL>
+
+    <Wiślicka>
+        <Location>Park tysiąclecia</Location>
+        <Obstacles>
+            <Ledges>4</Ledges>
+            <Rails>2</Rails>
+            <Quarters>0<Quarters>
+            <BanksAndHips>2</BanksAndHips>
+        </Obstacles>
+    </Wiślicka>
+
+</Skateparks>
